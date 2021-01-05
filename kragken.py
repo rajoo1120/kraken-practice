@@ -4,5 +4,9 @@ print("heejin")
 
 print("jangbuguni")
 print("1")
-print("2")
+<<<<<<< HEAD
+print("222")
+=======
+print("22222")
+>>>>>>> cart3
 print("3")
